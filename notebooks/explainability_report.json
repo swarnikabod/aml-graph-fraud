@@ -1,0 +1,47 @@
+[
+  {
+    "account_id": "70:100428660",
+    "fraud_score": 0.9998,
+    "out_degree": 1115,
+    "in_degree": 2,
+    "pagerank": 4e-06,
+    "clustering": 0.0,
+    "is_real_fraud": true,
+    "top_features": {
+      "in_degree": 0.14622001349925995,
+      "out_degree": 0.14846692979335785,
+      "pagerank": 0.13836009800434113,
+      "clustering": 0.0
+    }
+  },
+  {
+    "account_id": "15980:812F0D2B0",
+    "fraud_score": 0.9688,
+    "out_degree": 1,
+    "in_degree": 37,
+    "pagerank": 0.000173,
+    "clustering": 0.0,
+    "is_real_fraud": false,
+    "top_features": {
+      "in_degree": 0.0,
+      "out_degree": 0.0,
+      "pagerank": 0.0,
+      "clustering": 0.0
+    }
+  },
+  {
+    "account_id": "147241:813A4B2F0",
+    "fraud_score": 0.9522,
+    "out_degree": 0,
+    "in_degree": 6,
+    "pagerank": 1.1e-05,
+    "clustering": 0.0,
+    "is_real_fraud": false,
+    "top_features": {
+      "in_degree": 0.0,
+      "out_degree": 0.0,
+      "pagerank": 0.0,
+      "clustering": 0.0
+    }
+  }
+]
